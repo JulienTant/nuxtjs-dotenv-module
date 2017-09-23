@@ -1,4 +1,4 @@
-# nuxtjs-dotenv-module - WIP
+# nuxtjs-dotenv-module
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxtjs-dotenv-module/latest.svg?style=flat-square)](https://npmjs.com/package/nuxtjs-dotenv-module)
 [![npm](https://img.shields.io/npm/dt/nuxtjs-dotenv-module.svg?style=flat-square)](https://npmjs.com/package/nuxtjs-dotenv-module)
