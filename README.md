@@ -1,3 +1,5 @@
+# The project has moved to the Nuxt-Community 🚀 https://github.com/nuxt-community/dotenv-module
+
 # nuxtjs-dotenv-module
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxtjs-dotenv-module/latest.svg?style=flat-square)](https://npmjs.com/package/nuxtjs-dotenv-module)
